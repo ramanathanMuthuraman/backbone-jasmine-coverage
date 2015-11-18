@@ -2,7 +2,7 @@
 AMD bundled Backbone application with Jasmine unit testing and Karma test runner
 
 ## About
-A simple example for unit testing backbone js application bundled through require JS. Jasmine and Karma used together for unit testing. Also generated the coverage report for the unit testing.
+A simple example for unit testing backbone js application bundled through require JS. Jasmine and Karma used for unit testing which also generates coverage report.
 
 ## Installation
 
@@ -15,7 +15,7 @@ npm install
 
 ## Usage
 
-Run the below npm task to get the coverage reports. 
+Run the below npm task to run the unit tests and get the coverage reports. 
 
 ```
 npm test
