@@ -21,7 +21,7 @@
   },
   "scripts": {
     "test": "karma start",
-    "server": "http-server -p 9999"
+    "start": "http-server -p 9999"
   },
   "peerDependencies": {
     "karma": ">=0.9",

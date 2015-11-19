@@ -21,7 +21,7 @@ npm test
 Run the below npm task to run the application in the local server 
 
 ```
-npm test
+npm start
 
 ```
 
