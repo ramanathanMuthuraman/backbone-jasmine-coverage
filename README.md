@@ -25,4 +25,4 @@ npm test
 
 ```
 
-To view the served files, navigate to (http://localhost:9999/) [http://localhost:9999/]
+To view the served files, navigate to [http://localhost:9999/] (http://localhost:9999/)
