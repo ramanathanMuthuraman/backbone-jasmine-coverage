@@ -18,3 +18,11 @@ Run the below npm task to run the unit tests and get the coverage reports.
 npm test
 
 ```
+Run the below npm task to run the application in the local server 
+
+```
+npm test
+
+```
+
+To view the served files, navigate to (http://localhost:9999/) [http://localhost:9999/]
